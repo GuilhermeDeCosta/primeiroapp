@@ -48,6 +48,7 @@ Após tentar forçar os calculos sem ter uma ideia do que estava ocorrendo em mi
 <img width="1919" height="985" alt="Captura de tela 2026-02-26 221523" src="https://github.com/user-attachments/assets/3924b8fc-2975-4e47-9323-54f739aa35af" />
 
 
+<<<<<<< HEAD
 Após fazer os operadores funcionar na calculadora, decidi que era hora de estilizar a calculadora e deixa-la com uma cara melhor.
 
 Não houve muito problemas envolvendo estilizar a calculadora, o que causou um pouco de incomodo foi referente as bordas da calculadora. Pois, eu tinha que permitir uma borda que funcionasse tanto em web tanto em um dispotivo móvel e comando que utlizei no styles foi o "width" que permitiu centralizar a calculadora tanto em modelo web quanto dispositivos mível.
@@ -62,3 +63,5 @@ INVERTER SINAL: utilizei somente a validação se o valor era vazio, caso não f
 RAIZ QUADRADA: eu utlizei a biblioteca Math, que era mais fácil
 
 x²: foi utilizando uma constante para copiar o valor digitado na calculadora e depois fazer o mesmo multiplicar os valores copiados para dar o resultado e passar para o primeiroValor da calculadora
+=======
+>>>>>>> cc070d6d5434fac533686299df4881e5b5346a3c
